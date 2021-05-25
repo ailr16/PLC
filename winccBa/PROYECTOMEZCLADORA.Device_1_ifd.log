@@ -1,0 +1,14 @@
+﻿ES2RT linker log file created on lunes, 24 de mayo de 2021 19:24:54
+
+Linking...
+User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Warning - Resource Id [ WrongLocationOrSizeInScreen ], caused in [ LinkerClass ]
+User Warning - Resource Id [ WrongLocationOrSizeInScreen ], caused in [ LinkerClass ]
+User Warning - Resource Id [ WrongLocationOrSizeInScreen ], caused in [ LinkerClass ]
+User Warning - Resource Id [ WrongLocationOrSizeInScreen ], caused in [ LinkerClass ]
+User Warning - Resource Id [ WrongLocationOrSizeInScreen ], caused in [ LinkerClass ]
+User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
+0 errors, 5 warnings - succeeded.
+
+Writing "C:\Users\angel\Documents\GitHub\PLC\winccBa\PROYECTOMEZCLADORA.Device_1"...
+Done.
